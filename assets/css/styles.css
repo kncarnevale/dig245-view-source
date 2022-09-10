@@ -1,2 +1,32 @@
 
 /* css */
+ *{
+  background-color: black;
+}
+
+h1{
+  color:purple;
+  font-weight:bold;
+  text-align: center;
+  font-size: 50px;
+  font-family: fantasy;
+}
+h2{
+  color:pink;
+  font-weight:bold;
+  font-family: cursive;
+}
+h3{
+  color:lightblue;
+  font-family:monospace;
+
+}
+.fav_animal{
+  text-align: center;
+}
+ol{
+  color:white;
+}
+li{
+  color:white;
+}
