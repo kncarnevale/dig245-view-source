@@ -30,3 +30,12 @@ ol{
 li{
   color:white;
 }
+table{
+  background-color: white;
+  color:white;
+  text-align: center;
+}
+.schedule{
+  text-align: left;
+  width: 50%;
+}
